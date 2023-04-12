@@ -1,0 +1,5 @@
+bin-debug/
+bin-release/
+[Oo]bj/
+.settings/
+node_modules
